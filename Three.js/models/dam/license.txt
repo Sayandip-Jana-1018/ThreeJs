@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chippewa River Flood Model
+* source:	https://sketchfab.com/3d-models/chippewa-river-flood-model-f0501dd53f5146ca99f8cd2c14d78d06
+* author:	fecr2o4 (https://sketchfab.com/fecr2o4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chippewa River Flood Model" (https://sketchfab.com/3d-models/chippewa-river-flood-model-f0501dd53f5146ca99f8cd2c14d78d06) by fecr2o4 (https://sketchfab.com/fecr2o4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
